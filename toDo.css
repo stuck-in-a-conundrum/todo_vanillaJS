@@ -1,3 +1,20 @@
+h1{
+    font:3em sans-serif;
+}
+input{
+    height: 30px;
+    margin-bottom: 10px;
+    border-style: none;
+    font-size: 1em;
+}
+button{
+    height: 30px;
+    background-color: rgb(141, 215, 238);
+    border-style: none;
+    border-radius: 15%;
+    font-size: 1em;
+}
+
 .todo{
     background-color: white;
     padding: 10px;
